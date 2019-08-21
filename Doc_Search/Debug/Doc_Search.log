@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/8/12 13:11:06。
+     1>项目“D:\宇睿\搜索神器\Doc_Search\Doc_Search\Doc_Search.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\vs\VC\bin\CL.exe /c /I"D:\宇睿\搜索神器\sqlite-amalgamation-3280000" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ScanManager.cpp Test.cpp
+         ScanManager.cpp
+         正在生成代码...
+         正在编译...
+         Test.cpp
+         正在生成代码...
+       Link:
+         C:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\宇睿\搜索神器\Doc_Search\Debug\Doc_Search.exe" /INCREMENTAL /NOLOGO "D:\宇睿\搜索神器\sqlite-amalgamation-3280000\sqlite3.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\宇睿\搜索神器\Doc_Search\Debug\Doc_Search.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\宇睿\搜索神器\Doc_Search\Debug\Doc_Search.lib" /MACHINE:X86 Debug\DataManager.obj
+         Debug\ScanManager.obj
+         Debug\Test.obj
+     1>sqlite3.lib(sqlite3.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“sqlite3.lib(sqlite3.obj)”或在“D:\宇睿\搜索神器\Doc_Search\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         Doc_Search.vcxproj -> D:\宇睿\搜索神器\Doc_Search\Debug\Doc_Search.exe
+     1>已完成生成项目“D:\宇睿\搜索神器\Doc_Search\Doc_Search\Doc_Search.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.90
